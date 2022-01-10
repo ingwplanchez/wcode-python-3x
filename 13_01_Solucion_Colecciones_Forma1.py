@@ -28,7 +28,7 @@ RELLENO = "*"
 COMILLAS = ""
 MENSAJE = "TOTAL"
 
-# Deficnicion de Tramas
+# Definicion de Tramas
 
 list_Trama = ["Producto", "Descripcion", "Cantidad", "Precio"]
 
