@@ -29,7 +29,7 @@ COMILLAS = ""
 MENSAJE  = "TOTAL"
 SEPARADOR = "|"
 
-# Deficnicion de Tramas
+# Definicion de Tramas
 
 tuple_Trama = ('Producto', 'Descripcion', 'Cantidad','Precio')
 
